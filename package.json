@@ -4,7 +4,7 @@
   "description": "Practicing creating packages while going through algo class. This one mostly does binary search.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [
     "binary-search",
