@@ -1,5 +1,5 @@
 {
-  "name": "binary-search",
+  "name": "@acorn-utils/binary-search",
   "version": "1.0.0",
   "description": "Practicing creating packages while going through algo class. This one mostly does binary search.",
   "main": "index.js",
