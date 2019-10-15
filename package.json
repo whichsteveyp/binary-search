@@ -1,0 +1,20 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "Practicing creating packages while going through algo class. This one mostly does binary search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary-search",
+    "algo",
+    "binary",
+    "search",
+    "algos",
+    "bad",
+    "code"
+  ],
+  "author": "",
+  "license": "ISC"
+}
